@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|c:\\users\\jeans\\downloads\\prg281_projeccct\\prg281_project\\prg281_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Discounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Discounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:Events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\CustomExceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211F3FF-ACFE-4C39-B18B-8356565ABF9C}|PRG281_Project.csproj|solutionrelative:CustomExceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datastore.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Datastore.cs",
+              "RelativeDocumentMoniker": "Datastore.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Datastore.cs",
+              "RelativeToolTip": "Datastore.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:35:43.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Monitor.cs",
+              "RelativeDocumentMoniker": "Monitor.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Monitor.cs",
+              "RelativeToolTip": "Monitor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:31:52.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Tickets.cs",
+              "RelativeDocumentMoniker": "Tickets.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Tickets.cs",
+              "RelativeToolTip": "Tickets.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:50:03.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAQwEsBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:50:01.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Payments.cs",
+              "RelativeDocumentMoniker": "Payments.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Payments.cs",
+              "RelativeToolTip": "Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:49:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Discounts.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Discounts.cs",
+              "RelativeDocumentMoniker": "Discounts.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Discounts.cs",
+              "RelativeToolTip": "Discounts.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:48:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:49:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\Events.cs",
+              "RelativeToolTip": "Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:49:30.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\jeans\\Downloads\\PRG281_Projeccct\\PRG281_Project\\PRG281_Project\\CustomExceptions.cs",
+              "RelativeToolTip": "CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T17:58:56.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
